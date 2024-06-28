@@ -1,0 +1,45 @@
+@font-face {
+   font-family: 'Typewriter';
+   src: url('../fonts/veteran_typewriter-webfont.eot');
+   src: url('../fonts/veteran_typewriter-webfont.eot?iefix') format('eot');
+	 src: local('â?º'), 
+        url('../fonts/veteran_typewriter-webfont.woff') format('woff'), 
+        url('../fonts/veteran_typewriter-webfont.ttf') format('truetype'), 
+        url('../fonts/veteran_typewriter-webfont.svg#webfontkQkWxTED') format('svg');
+   font-weight: normal;
+   font-style: normal;
+}
+
+body{
+	font-family: 'Typewriter', serif;
+	width: 500%;
+	height: 500%;
+	background:url(../img/cuerpofondo.jpg) no-repeat fixed;
+}
+
+h1 {
+	font-size: 8em;
+	margin-bottom: 0.2em;
+}
+
+h2{
+	font-size: 1.5em;
+	margin-bottom: 2em;
+}
+
+article{
+font-size: 1.5em;
+margin-bottom: 2em;
+}
+
+.burbuja{
+	position: absolute;
+	top: 5%%;
+	left: 5%;
+	z-index: 2;
+}
+
+
+.texto {
+	opacity:0;
+}

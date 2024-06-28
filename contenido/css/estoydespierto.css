@@ -1,0 +1,22 @@
+@font-face {
+   font-family: 'Typewriter';
+   src: url('../fonts/veteran_typewriter-webfont.eot');
+   src: url('../fonts/veteran_typewriter-webfont.eot?iefix') format('eot');
+	 src: local('â?º'), 
+        url('../fonts/veteran_typewriter-webfont.woff') format('woff'), 
+        url('../fonts/veteran_typewriter-webfont.ttf') format('truetype'), 
+        url('../fonts/veteran_typewriter-webfont.svg#webfontkQkWxTED') format('svg');
+   font-weight: normal;
+   font-style: normal;
+}
+
+p{
+	font-family: 'Typewriter', serif;
+	font-size: 4em;
+	color: #AAA;
+}
+
+.sub{
+	margin-top: 45%;
+	font-size: 1.8em;
+}
