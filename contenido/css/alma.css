@@ -13,6 +13,7 @@
 body{
 	font-family: 'Typewriter', serif;
 	background:url(../img/almafondo.jpg) no-repeat fixed;
+	background-size: cover;
 }
 
 h1 {
