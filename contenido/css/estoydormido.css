@@ -12,6 +12,7 @@
 
 body{
 	background: url(../img/sueño.jpg);
+	background-size: cover;
 	font-family: 'Typewriter', serif;
 }
 
