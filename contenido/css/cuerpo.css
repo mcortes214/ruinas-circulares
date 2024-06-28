@@ -15,6 +15,7 @@ body{
 	width: 500%;
 	height: 500%;
 	background:url(../img/cuerpofondo.jpg) no-repeat fixed;
+	background-size: cover;
 }
 
 h1 {
