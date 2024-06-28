@@ -13,7 +13,7 @@
 body{
 	font-family: 'Typewriter', serif;
 	background:url(../img/mentefondo.jpg) no-repeat fixed;
-	
+	background-size: cover;
 }
 
 h1 {
